@@ -1,0 +1,15 @@
+app/src/leanback/res/drawable/shape_func_pill.xml
+app/src/leanback/res/drawable/shape_title_pill.xml
+app/src/leanback/java/com/fongmi/android/tv/bean/HomeButton.java
+app/src/leanback/res/values/strings.xml
+app/src/leanback/res/values-zh-rCN/strings.xml
+app/src/leanback/res/values-zh-rTW/strings.xml
+app/src/leanback/java/com/fongmi/android/tv/ui/custom/CustomTitleView.java
+app/src/leanback/res/layout/adapter_func.xml
+app/src/leanback/java/com/fongmi/android/tv/ui/presenter/FuncPresenter.java
+app/src/leanback/java/com/fongmi/android/tv/ui/adapter/TypeAdapter.java
+app/src/leanback/res/layout/activity_home.xml
+app/src/leanback/java/com/fongmi/android/tv/ui/activity/HomeActivity.java
+app/src/leanback/java/com/fongmi/android/tv/ui/custom/CustomUpDownView.java
+app/src/main/java/com/fongmi/android/tv/bean/History.java
+app/src/leanback/java/com/fongmi/android/tv/ui/activity/VideoActivity.java
